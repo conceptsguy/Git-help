@@ -5,3 +5,4 @@ h3. git:
 * init
 * add (.)
 * commit (-a, -m)
+* push (remote name, remote branch)
