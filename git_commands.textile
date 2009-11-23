@@ -6,3 +6,4 @@ h3. git:
 * add (.)
 * commit (-a, -m)
 * push (remote name, remote branch)
+* pull (remote name, remote branch)
